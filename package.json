@@ -1,0 +1,28 @@
+{
+  "name": "MyApp",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^33.0.0",
+    "expo-constants": "~5.0.1",
+    "expo-image-manipulator": "~5.0.1",
+    "expo-location": "~5.0.1",
+    "expo-permissions": "~5.0.1",
+    "firebase": "5.2.0",
+    "lodash": "^4.17.11",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "react-native-maps": "^0.23.0",
+    "react-navigation": "2.6.0",
+    "react-navigation-header-buttons": "^1.2.1",
+    "react-redux": "^7.0.2",
+    "redux": "^4.0.1",
+    "uuid": "3.3.2"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.5.0"
+  }
+}
